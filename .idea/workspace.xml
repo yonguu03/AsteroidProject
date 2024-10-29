@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="f0ab6379-bda5-4709-9236-87768eb2b402" name="Changes" comment="update">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/highscore.dat" beforeDir="false" afterPath="$PROJECT_DIR$/highscore.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se233/asteroidproject/characters/PlayerShip.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/se233/asteroidproject/characters/PlayerShip.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,44 +54,44 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.AsteroidsGame.executor": "Run",
-    "JAR Application.AsteroidProject-1.0-SNAPSHOT-jar-with-dependencies.jar.executor": "Run",
-    "JAR Application.AsteroidProject-1.0-SNAPSHOT.jar.executor": "Run",
-    "JUnit.PlayerShipTest.executor": "Run",
-    "Maven.AsteroidProject [clean].executor": "Run",
-    "Maven.AsteroidProject [compile].executor": "Run",
-    "Maven.AsteroidProject [deploy].executor": "Run",
-    "Maven.AsteroidProject [install].executor": "Run",
-    "Maven.AsteroidProject [package].executor": "Run",
-    "Maven.AsteroidProject [test].executor": "Run",
-    "Maven.AsteroidProject [verify].executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/charisse/Desktop/662115501/AsteroidProject",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.47241378",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.AsteroidsGame.executor&quot;: &quot;Run&quot;,
+    &quot;JAR Application.AsteroidProject-1.0-SNAPSHOT-jar-with-dependencies.jar.executor&quot;: &quot;Run&quot;,
+    &quot;JAR Application.AsteroidProject-1.0-SNAPSHOT.jar.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.PlayerShipTest.executor&quot;: &quot;Run&quot;,
+    &quot;Maven.AsteroidProject [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.AsteroidProject [compile].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.AsteroidProject [deploy].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.AsteroidProject [install].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.AsteroidProject [package].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.AsteroidProject [test].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.AsteroidProject [verify].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/charisse/Desktop/662115501/AsteroidProject&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.47241378&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\charisse\Desktop\662115501" />
       <recent name="C:\Users\Flobo\IdeaProjects\AsteroidProject-master\src\main\resources" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.AsteroidsGame">
     <configuration name="AsteroidsGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="se233.asteroidproject.main.AsteroidsGame" />
       <module name="AsteroidProject" />
@@ -194,7 +196,10 @@
       <workItem from="1730199620550" duration="1031000" />
       <workItem from="1730200737947" duration="1006000" />
       <workItem from="1730201862105" duration="66000" />
-      <workItem from="1730201941635" duration="946000" />
+      <workItem from="1730201941635" duration="1225000" />
+      <workItem from="1730203195614" duration="12000" />
+      <workItem from="1730203580052" duration="542000" />
+      <workItem from="1730204138142" duration="927000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <option name="closed" value="true" />
@@ -212,7 +217,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730202125018</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="update">
+      <option name="closed" value="true" />
+      <created>1730203057132</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1730203057132</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
