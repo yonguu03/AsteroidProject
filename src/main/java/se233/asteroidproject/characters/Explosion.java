@@ -4,7 +4,7 @@ import javafx.scene.canvas.GraphicsContext;
 import javafx.scene.image.Image;
 
 import java.util.Objects;
-
+// couldnt figure out how to do the animation. this class is unused
 public class Explosion {
     private double x, y;
     private Image spriteSheet;

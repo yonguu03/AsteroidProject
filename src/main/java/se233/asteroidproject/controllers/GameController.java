@@ -65,7 +65,7 @@ public class GameController extends GeneralController {
         this.stage = new Stage();
         this.scene = setGameScene();
         this.stage.show();
-        this.gameState = new GameState(); // Initialize GameState
+        this.gameState = new GameState(); // initialize GameState
     }
 
     private Scene setGameScene() {
@@ -163,19 +163,19 @@ public class GameController extends GeneralController {
         int[] enemyCounts = levelController.getEnemyCounts();
 
         if (this.asteroids.stream().filter(asteroid -> asteroid instanceof AsteroidsVar.SmallAsteroids).count() < enemyCounts[0]) {
-            // Logic to add more small asteroids if needed
+            // logic to add more small asteroids if needed
         }
 
         if (this.asteroids.stream().filter(asteroid -> asteroid instanceof AsteroidsVar.MediumAsteroids).count() < enemyCounts[1]) {
-            // Logic to add more medium asteroids if needed
+            // logic to add more medium asteroids if needed
         }
 
         if (this.asteroids.stream().filter(asteroid -> asteroid instanceof AsteroidsVar.LargeAsteroids).count() < enemyCounts[2]) {
-            // Logic to add more large asteroids if needed
+            // logic to add more large asteroids if needed
         }
 
         if (this.bosses.size() < enemyCounts[3]) {
-            // Logic to add more bosses if needed
+            // logic to add more bosses if needed
         }
     }
 

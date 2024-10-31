@@ -6,8 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="f0ab6379-bda5-4709-9236-87768eb2b402" name="Changes" comment="update">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/highscore.dat" beforeDir="false" afterPath="$PROJECT_DIR$/highscore.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/se233/asteroidproject/characters/PlayerShip.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/se233/asteroidproject/characters/PlayerShip.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se233/asteroidproject/characters/Asteroids.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/se233/asteroidproject/characters/Asteroids.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se233/asteroidproject/characters/Explosion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/se233/asteroidproject/characters/Explosion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/se233/asteroidproject/controllers/GameController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/se233/asteroidproject/controllers/GameController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/PlayerMove.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -199,7 +201,12 @@
       <workItem from="1730201941635" duration="1225000" />
       <workItem from="1730203195614" duration="12000" />
       <workItem from="1730203580052" duration="542000" />
-      <workItem from="1730204138142" duration="927000" />
+      <workItem from="1730204138142" duration="1063000" />
+      <workItem from="1730205219912" duration="264000" />
+      <workItem from="1730205490873" duration="395000" />
+      <workItem from="1730213490150" duration="757000" />
+      <workItem from="1730268053876" duration="3201000" />
+      <workItem from="1730361180492" duration="321000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <option name="closed" value="true" />
@@ -225,7 +232,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730203057132</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="update">
+      <option name="closed" value="true" />
+      <created>1730205170738</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1730205170738</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

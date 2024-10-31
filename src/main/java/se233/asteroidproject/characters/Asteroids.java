@@ -20,7 +20,7 @@ public abstract class Asteroids extends Characters {
     private Point2D location;
 
     public Asteroids(ImageView entityShape, double x, double y, double velocity) {
-        super(entityShape, x, y); // Call to the Characters constructor
+        super(entityShape, x, y); // call to the Characters constructor
         this.entityShape = entityShape;
         this.velocity = velocity;
         this.location = new Point2D(x, y);
@@ -66,7 +66,7 @@ public abstract class Asteroids extends Characters {
 
     //asteroid collisions
     public void handleCollision(List<Bullet> bullets, List<Asteroids> asteroids, PlayerShip playerShip, Pane pane) {
-        // Remove bullets and asteroids that have collided
+        // removes the asteroids and bullets that have collided
         bullets.removeIf(bullet -> {
             for (Asteroids asteroid : asteroids) {
                 if (bullet.hasCollided(asteroid)) {
